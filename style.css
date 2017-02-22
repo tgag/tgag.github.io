@@ -1,0 +1,82 @@
+body {
+	width: 100%;
+	background-image:url("assets/3.jpg");
+	text-align:center;
+}
+
+#main {
+	width: 75%;
+	background:#dcc5d3;
+	margin:25px auto;
+	border: solid 2px #766a71 ;
+}
+
+.header {
+	width: 100%;
+	min-height: 150px;
+}
+
+h1 {
+	text-align: center;
+	font-family:;
+	font:75pt;
+	color:#766a71;
+}
+
+nav {
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.content {
+	width: 75%;
+	margin: 0px auto;
+}
+
+.tatiana-img {
+	float: right;
+	width:40%;
+}
+.seo-img {
+	float: right;
+	width:45%;
+	height:auto;
+	margin:2px auto;
+	padding:20px;
+}
+.projects {
+	width: 80%;
+	margin: 0px auto;
+}
+
+.projects img {
+	float: left;
+	display: block;
+	margin: 2px auto;
+	height: auto;
+	width: 170px;
+	text-align: center;
+	padding: 10px;
+}
+.social img{
+	float: left;
+	display: block;
+	margin: 2px auto;
+	height: auto;
+	width: 64px;
+	text-align: center;
+	padding: 10px;
+}
+
+.clear-div {
+	clear: both;
+}
+
+.blog {
+    padding: 0 10px;
+}
+
+footer {
+	min-height: 150px;
+}
